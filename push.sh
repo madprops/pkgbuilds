@@ -1,5 +1,3 @@
-git add --all backup/
-git add backup.sh
-git add push.sh
+git add -A
 git commit -m "Mods"
 git push origin main
